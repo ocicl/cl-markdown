@@ -2,9 +2,8 @@
 
 
 
-4808ef7---------+-------------------------------------------|
-4808ef7 source  | git:https://gitlab.common-lisp.net/cl-markdown/cl-markdown.git   |
-4808ef7 commit  |   |
-4808ef7 systems | cl-markdown |
-4808ef7---------+-------------------------------------------|
-
+|---------+----------------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/cl-markdown/cl-markdown.git |
+| commit  | 4808ef7                                                        |
+| systems | cl-markdown                                                    |
+|---------+----------------------------------------------------------------|
